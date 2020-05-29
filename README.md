@@ -1,4 +1,5 @@
- Server-Client terminal chat interface using WebSockets 
+ Exploring Client-Server Interaction using WebSockets<br>
+Chat implemented in Terminal interface<br>
  
  <img src="img/chat.gif">
  
